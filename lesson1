@@ -1,0 +1,15 @@
+for f in range(6):
+    if f == 0:
+        print("今天我吃了：鸡腿饭")
+    if f == 1:
+        print("今天我吃了：鸭腿饭")
+    if f == 2:
+        print("今天我吃了：鹅腿饭")
+    if f == 3:
+        print("今天我吃了：麻辣烫")
+    if f == 4:
+         print("今天我吃了：凉皮")
+    if f == 5:
+        print("今天我吃了：烧烤")
+    if f == 6:
+        print("今天我吃了：沙拉")
